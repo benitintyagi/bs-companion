@@ -1,0 +1,23 @@
+# venv & Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# env & secrets
+.env
+
+# data & artifacts
+data/chroma_db/
+data/processed_text/
+data/tmp/
+logs/
